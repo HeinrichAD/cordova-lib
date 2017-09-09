@@ -61,5 +61,10 @@
         "url": "https://git-wip-us.apache.org/repos/asf?p=cordova-browser.git",
         "version": "~4.1.0",
         "deprecated": false
+    },
+    "electron": {
+        "url": "https://git-wip-us.apache.org/repos/asf?p=cordova-electron.git",
+        "version": "~0.0.1",
+        "deprecated": false
     }
 }
